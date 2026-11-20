@@ -5,7 +5,7 @@ Atividade: CityzenTech IoT - Conectando o ambiente com o mundo digital.
 
 **Integrante (trabalho individual):** Carlos Alberto Adami da Silva Neto (RM571841)
 
-**Simulação no Wokwi:** https://wokwi.com/projects/481158279188909057
+**Simulação no Wokwi:** https://wokwi.com/projects/481167449591758849
 
 **Gráficos no ThingSpeak (canal de medições):** https://thingspeak.com/channels/3588887
 
